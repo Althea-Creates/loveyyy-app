@@ -49,7 +49,7 @@ export default function FinalQuestion() {
             Ako na ngayon ang magtatanong:
           </h2>
           <p className="text-xl mb-6 text-gray-700">
-            Will you be my girlfriend? 💖
+            Kelan mo ako sasagutin?
           </p>
           <div className="flex justify-center gap-4">
             <motion.button
