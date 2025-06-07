@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/loveyyy-app/static/css/main.ddf75a02.css",
-    "main.js": "/loveyyy-app/static/js/main.cf925664.js",
+    "main.js": "/loveyyy-app/static/js/main.79a360d9.js",
     "static/js/453.4559b5e6.chunk.js": "/loveyyy-app/static/js/453.4559b5e6.chunk.js",
     "index.html": "/loveyyy-app/index.html",
     "main.ddf75a02.css.map": "/loveyyy-app/static/css/main.ddf75a02.css.map",
-    "main.cf925664.js.map": "/loveyyy-app/static/js/main.cf925664.js.map",
+    "main.79a360d9.js.map": "/loveyyy-app/static/js/main.79a360d9.js.map",
     "453.4559b5e6.chunk.js.map": "/loveyyy-app/static/js/453.4559b5e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddf75a02.css",
-    "static/js/main.cf925664.js"
+    "static/js/main.79a360d9.js"
   ]
 }
