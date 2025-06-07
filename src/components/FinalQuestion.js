@@ -57,14 +57,14 @@ export default function FinalQuestion() {
               whileHover={{ scale: 1.1 }}
               className="button-2"
             >
-              YES 💚
+              NGAYON NA 💚
             </motion.button>
             <motion.button
               onClick={handleYesClick}
               whileHover={{ scale: 1.1 }}
               className="px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600"
             >
-              Also YES 💜
+              Magbibigay ako date bleh 💜
             </motion.button>
           </div>
           <p className="mt-8 text-sm text-gray-500 italic">
